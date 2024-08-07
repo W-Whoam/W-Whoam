@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+[![I use Bun](https://img.shields.io/badge/-I_use_Bun-%23fbf0df?logo=Bun&logoColor=%23fbf0df&labelColor=black)](https://bun.sh)
+
 <!--
 **W-Whoam/W-Whoam** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
