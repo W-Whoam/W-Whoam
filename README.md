@@ -1,1 +1,1 @@
-[![Whoam main](banner.svg)](https://github.com/W-Whoam)
+[View Banner](https://w-whoam.github.io/banner.html)
