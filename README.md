@@ -1,3 +1,3 @@
 <a href="https://ulus.org.tr">
-    <img src="https://raw.githubusercontent.com/YOUR_USERNAME/YOUR_USERNAME/main/whoam.png" width="100%" />
+    <img src="https://raw.githubusercontent.com/W-Whoam/W-Whoam/main/whoam.png" width="100%" />
 </a>
